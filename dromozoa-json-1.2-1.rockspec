@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "dromozoa-json"
-version = "1.1-1"
+version = "1.2-1"
 -- LuaDist source
 source = {
-  tag = "1.1-1",
+  tag = "1.2-1",
   url = "git://github.com/LuaDist-testing/dromozoa-json.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/dromozoa/dromozoa-json/archive/v1.1.tar.gz";
---   file = "dromozoa-json-1.1.tar.gz";
+--   url = "https://github.com/dromozoa/dromozoa-json/archive/v1.2.tar.gz";
+--   file = "dromozoa-json-1.2.tar.gz";
 -- }
 description = {
   summary = "JSON encoder and decoder";
